@@ -1,5 +1,15 @@
 {
+  "name": "challenge-3-calculator",
+  "version": "1.0.0",
+  "description": "Interactive Calculator & Data Analyzer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "author": "",
+  "license": "ISC"
 }
